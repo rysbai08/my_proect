@@ -11,4 +11,6 @@ class Ilnur4ik(Students):
     def __init__(self):
         super().__init__('Ilnur', 17)
         
-
+class Kuti(Students):
+    def __init__(self):
+        super().__init__('Ayanokoji Kyoutaka', '17')
